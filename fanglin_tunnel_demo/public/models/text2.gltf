@@ -1,0 +1,766 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "draco_decoder"
+  },
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "scene": 0,
+  "nodes": [
+    {
+      "name": "rootNode",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "rotation": [
+        0.70709999999999995,
+        0,
+        0,
+        -0.70709999999999995
+      ],
+      "scale": [
+        0.30480000000000002,
+        0.30480000000000002,
+        0.30480000000000002
+      ]
+    },
+    {
+      "name": "FamilyInstance 常规模型 MS1-MS12 <367986 MS1-MS12<",
+      "mesh": 0
+    },
+    {
+      "name": "FamilyInstance 常规模型 MS1道路结构层 <368006 MS1道路结构层<",
+      "mesh": 1
+    },
+    {
+      "name": "FamilyInstance 常规模型 NS1-NS12 <368044 NS1-NS12<",
+      "mesh": 2
+    },
+    {
+      "name": "FamilyInstance 常规模型 NS1道路 <368074 NS1道路<",
+      "mesh": 3
+    },
+    {
+      "name": "FamilyInstance 常规模型 MU7 <368114 MU7<",
+      "mesh": 4
+    },
+    {
+      "name": "FamilyInstance 常规模型 NU7 <368155 NU7<",
+      "mesh": 5
+    },
+    {
+      "name": "FamilyInstance 常规模型 MU11 <368195 MU11<",
+      "mesh": 6
+    },
+    {
+      "name": "FamilyInstance 常规模型 NU11 <368235 NU11<",
+      "mesh": 7
+    },
+    {
+      "name": "FamilyInstance 常规模型 路面1 <368584 路面1<",
+      "mesh": 8
+    },
+    {
+      "name": "FamilyInstance 常规模型 路面2 <370461 路面2<",
+      "mesh": 9
+    },
+    {
+      "name": "FamilyInstance 常规模型 道路3 <370650 道路3<",
+      "mesh": 10
+    },
+    {
+      "name": "FamilyInstance 常规模型 道路4 <370747 道路4<",
+      "mesh": 11
+    }
+  ],
+  "meshes": [
+    {
+      "name": "MS1-MS12",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 2,
+            "POSITION": 1
+          },
+          "indices": 0,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "MS1道路结构层",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 1,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "NS1-NS12",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 8,
+            "POSITION": 7
+          },
+          "indices": 6,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 2,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "NS1道路",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10
+          },
+          "indices": 9,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 3,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "MU7",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 14,
+            "POSITION": 13
+          },
+          "indices": 12,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 4,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "NU7",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16
+          },
+          "indices": 15,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 5,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "MU11",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 20,
+            "POSITION": 19
+          },
+          "indices": 18,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 6,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "NU11",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 23,
+            "POSITION": 22
+          },
+          "indices": 21,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 7,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "路面1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 26,
+            "POSITION": 25
+          },
+          "indices": 24,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 8,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "路面2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 29,
+            "POSITION": 28
+          },
+          "indices": 27,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 9,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "道路3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 32,
+            "POSITION": 31
+          },
+          "indices": 30,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 10,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "道路4",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 35,
+            "POSITION": 34
+          },
+          "indices": 33,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 11,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 1,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE"
+    }
+  ],
+  "accessors": [
+    {
+      "componentType": 5123,
+      "count": 3222,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 1110,
+      "max": [
+        394.19915771484375,
+        31.520025253295898,
+        27.887138366699219
+      ],
+      "min": [
+        -592.46380615234375,
+        -45.207992553710938,
+        -4.0128160026778336e-19
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 1110,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 23946,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 7675,
+      "max": [
+        394.00860595703125,
+        28.895362854003906,
+        9.1207351684570312
+      ],
+      "min": [
+        -592.269775390625,
+        -42.590244293212891,
+        3.6089239120483398
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 7675,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 2970,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 1014,
+      "max": [
+        394.03701782226562,
+        -69.634872436523438,
+        27.887138366699219
+      ],
+      "min": [
+        -591.2298583984375,
+        -124.73563385009766,
+        -2.2070502231894863e-19
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 1014,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 8883,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 2508,
+      "max": [
+        393.97918701171875,
+        -72.259544372558594,
+        9.1207351684570312
+      ],
+      "min": [
+        -591.17510986328125,
+        -122.11160278320312,
+        3.6089239120483398
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 2508,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 79914,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 15164,
+      "max": [
+        -588.70526123046875,
+        9.2038650512695312,
+        24.606298446655273
+      ],
+      "min": [
+        -1005.3356323242188,
+        -73.410614013671875,
+        -1.4210854715202004e-14
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 15164,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 8283,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 2633,
+      "max": [
+        -590.169189453125,
+        -73.315628051757812,
+        24.606298446655273
+      ],
+      "min": [
+        -1001.330078125,
+        -136.81498718261719,
+        -4.1458292301157747e-19
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 2633,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 67338,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 13038,
+      "max": [
+        726.16790771484375,
+        5.5108432769775391,
+        24.606298446655273
+      ],
+      "min": [
+        390.50738525390625,
+        -70.673622131347656,
+        -6.3949266346750855e-14
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 13038,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 6930,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 2223,
+      "max": [
+        722.09552001953125,
+        -73.894966125488281,
+        24.606298446655273
+      ],
+      "min": [
+        392.91644287109375,
+        -135.60055541992188,
+        2.886760493801409e-15
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 2223,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5121,
+      "count": 132,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 72,
+      "max": [
+        -588.9962158203125,
+        5.2776250839233398,
+        9.1207351684570312
+      ],
+      "min": [
+        -1005.044677734375,
+        -69.484375,
+        3.6089239120483398
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 72,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 1887,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 657,
+      "max": [
+        -590.25091552734375,
+        -77.268180847167969,
+        9.1207351684570312
+      ],
+      "min": [
+        -1001.2276000976562,
+        -132.89570617675781,
+        3.6089239120483398
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 657,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5121,
+      "count": 132,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 72,
+      "max": [
+        725.882080078125,
+        1.5842236280441284,
+        9.1207351684570312
+      ],
+      "min": [
+        390.793212890625,
+        -66.747001647949219,
+        3.6089239120483398
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 72,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 1521,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 535,
+      "max": [
+        721.9525146484375,
+        -77.831977844238281,
+        9.1207351684570312
+      ],
+      "min": [
+        393.00320434570312,
+        -131.66596984863281,
+        3.6089239120483398
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 535,
+      "type": "VEC3"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 2324
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2324,
+      "byteLength": 10896
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 13220,
+      "byteLength": 2244
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 15464,
+      "byteLength": 3532
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 18996,
+      "byteLength": 38600
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 57596,
+      "byteLength": 6104
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 63700,
+      "byteLength": 32472
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 96172,
+      "byteLength": 4852
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 101024,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 101312,
+      "byteLength": 1632
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 102944,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 103232,
+      "byteLength": 1444
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 104676,
+      "uri": "text2.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression"
+  ]
+}
